@@ -1,7 +1,7 @@
 # Distributed IoT Data Aggregation
 
-**Author:** [Your Name]  
-**Date:** [Date]  
+**Author:** Nowshika Mirza. R  
+**Roll number:** 814723104109  
 **Repository:** distributed-iot-data-aggregation  
 **Keywords:** IoT, Data Aggregation, Consensus-based, Smart City, SDG9, SDG11
 
